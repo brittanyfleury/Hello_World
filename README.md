@@ -29,7 +29,7 @@ Hello_World/
 - Where you got them
 - What is contained within the data files?
 - Datafile considerations
-- URL linkes to files- example here:
+- URL links to files- example here:
 [Alaska Airports and Runways](https://catalog.data.gov/harvest/object/66a1dddd-d006-408c-b0c2-b4f9d81d2509/html)
 ## Additional Documentation
 No additional documentation at this time. Here is some **BOLD** text. Here is *italicized* text
